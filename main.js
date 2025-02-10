@@ -5,8 +5,8 @@ import log from './utils/logger.js'
 import banner from './utils/banner.js'
 
 const TOKEN_ADDRESS = {
-    POL: "0x0000000000000000000000000000000000000000",
-    WPOL: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    POL: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    WPOL: "0x1cd0cd01c8c902adab3430ae04b9ea32cb309cf1",
     NETWORK_ID: 137,
     TYPE: 2 // Convert
 };
